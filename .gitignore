@@ -42,3 +42,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.suo
+*.user
+Blobbin/Blobbin.Api/project.lock.json
+Blobbin/Blobbin.Api/Project_Readme.html
